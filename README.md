@@ -1,7 +1,8 @@
 
   # Cat-themed social media app
 
-  This is a code bundle for Cat-themed social media app. The original project is available at https://www.figma.com/design/VY9J77I38JKNTENXHurmKi/Cat-themed-social-media-app.
+KITTYGRAM
+https://www.figma.com/design/VY9J77I38JKNTENXHurmKi/Cat-themed-social-media-app.
 
   ## Running the code
 
