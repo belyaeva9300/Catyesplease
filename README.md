@@ -2,8 +2,7 @@
   # Cat-themed social media app
 
 KITTYGRAM
-https://www.figma.com/design/VY9J77I38JKNTENXHurmKi/Cat-themed-social-media-app.
-
+https://hero-film-10800795.figma.site/
   ## Running the code
 
   Run `npm i` to install the dependencies.
